@@ -1,0 +1,10 @@
+[1,2,3,4] - List
+
+JSON
+
+{
+    id: 1,
+    name: "Poco X7 Pro"
+    description: "smart-mobile"
+    price: 25000
+}
